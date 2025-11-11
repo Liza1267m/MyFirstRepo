@@ -1,0 +1,2 @@
+Breif introduction about myself.
+My name is Elizabeth.I am currently taking a course in linux and version control,and I am very excited to learn about GitHub and other technical tools.
